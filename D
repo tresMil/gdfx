@@ -1,0 +1,97 @@
+#EXTM3U
+#EXTINF:-1, Hustler_HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3425.ts
+#EXTINF:-1, FRENCHLOVER
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3424.ts
+#EXTINF:-1, Passion_X
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3427.ts
+#EXTINF:-1, O-la-la
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3426.ts
+#EXTINF:-1, SCT
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3435.ts
+#EXTINF:-1, Redlight_HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3433.ts
+#EXTINF:-1, Reality_Kings
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3432.ts
+#EXTINF:-1, Private
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3431.ts
+#EXTINF:-1, Penthouse_HD_2
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3429.ts
+#EXTINF:-1, Penthouse_HD_1
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3428.ts
+#EXTINF:-1, Playboy
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3430.ts
+#EXTINF:-1, Visit-X_HD
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3436.ts
+#EXTINF:-1, Brazzers_TV
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3423.ts
+#EXTINF:-1, Adult 4K: VOD 46
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3372.ts
+#EXTINF:-1, Adult 4K: VOD 45
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3371.ts
+#EXTINF:-1, Adult 4K: VOD 44
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3370.ts
+#EXTINF:-1, Adult 4K: VOD 43
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3369.ts
+#EXTINF:-1, Adult 4K: VOD 42
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3368.ts
+#EXTINF:-1, Adult 4K: VOD 41
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3367.ts
+#EXTINF:-1, Adult 4K: VOD 40
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3366.ts
+#EXTINF:-1, Adult 4K: VOD 39
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3365.ts
+#EXTINF:-1, Adult 4K: VOD 38
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3364.ts
+#EXTINF:-1, Adult 4K: VOD 37
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3363.ts
+#EXTINF:-1, Adult 4K: VOD 36
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3362.ts
+#EXTINF:-1, Adult 4K: VOD 35
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3361.ts
+#EXTINF:-1, Adult 4K: VOD 34
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3360.ts
+#EXTINF:-1, Adult 4K: VOD 33
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3359.ts
+#EXTINF:-1, Adult 4K: VOD 32
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3358.ts
+#EXTINF:-1, Adult 4K: VOD 31
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3357.ts
+#EXTINF:-1, Adult 4K: VOD 30
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3356.ts
+#EXTINF:-1, Adult 4K: VOD 29
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3355.ts
+#EXTINF:-1, Adult 4K: VOD 28
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3354.ts
+#EXTINF:-1, Adult 4K: VOD 27
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3353.ts
+#EXTINF:-1, Adult 4K: VOD 26
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3352.ts
+#EXTINF:-1, Adult 4K: VOD 25
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3351.ts
+#EXTINF:-1, Adult 4K: VOD 24
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3350.ts
+#EXTINF:-1, Adult 4K: VOD 23
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3349.ts
+#EXTINF:-1, Adult 4K: VOD 22
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3348.ts
+#EXTINF:-1, Adult 4K: VOD 21
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3347.ts
+#EXTINF:-1, Adult 4K: VOD 20
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3346.ts
+#EXTINF:-1, Adult 4K: VOD 19
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3345.ts
+#EXTINF:-1, Adult 4K: VOD 18
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3344.ts
+#EXTINF:-1, Adult 4K: VOD 17
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3343.ts
+#EXTINF:-1, Adult 4K: VOD 16
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3342.ts
+#EXTINF:-1, Adult 4K: VOD 15
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3341.ts
+#EXTINF:-1, Adult 4K: VOD 14
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3340.ts
+#EXTINF:-1, Adult 4K: VOD 13
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3339.ts
+ext,Adult 4K: VOD 12
+http://citymaxiptv.dynu.net:8000/live/citymax1/citymaxiptv100/3338.ts
